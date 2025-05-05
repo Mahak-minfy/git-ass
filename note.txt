@@ -11,7 +11,7 @@ Basic Git Commands:
 3. git add 
 4. git commit 
 5. git status 
-6. git branches
+6. git branch
 7. git merge
 8. git pull 
 9. git push
