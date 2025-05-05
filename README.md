@@ -9,3 +9,5 @@
 ![Screenshot of git log command output](log.png)
 
 ## Assignment 2: Github Basics 
+
+![Merge](merge.png)
