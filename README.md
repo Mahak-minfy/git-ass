@@ -7,3 +7,5 @@
 5. Used "git log" to view history
 
 ![Screenshot of git log command output](log.png)
+
+## Assignment 2: Github Basics 
