@@ -1,0 +1,12 @@
+Git Basics:
+1. Repository - A storage area for project with version history 
+2. Commit - A snapshot of changes we do 
+3. Staging - Preparing changes for commit 
+4. Merge - Combining changes from different branches 
+
+Basic Git Commands:
+1. git init 
+2. git clone
+3. git add 
+4. git commit 
+5. git status 
